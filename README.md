@@ -1,2 +1,7 @@
 # EDA-Food
 Exploratory Data Analysis (EDA) on Food Service Data
+This project presents an exploratory data analysis (EDA) on a food service dataset aimed at identifying key patterns in food waste, staffing efficiency, and environmental influences. The analysis focuses on uncovering operational inefficiencies and providing actionable insights to help reduce unnecessary food waste and improve kitchen performance. The dataset includes variables such as meals served, kitchen staff count, temperature, humidity, food waste quantity, special event indicators, and staff experience levels.
+
+The notebook file (`ProjectEDA.ipynb`) contains all the steps taken during the analysis, including data cleaning, statistical summaries, visualization of distributions, correlation analysis, and hypothesis testing. Techniques such as t-tests were used to evaluate the impact of variables like staff experience and special events on food waste levels. Visualizations such as histograms, boxplots, and heatmaps help illustrate trends and relationships within the data.
+
+Additionally, a well-organized report (`ProjectEDA_Report.docx`) summarizes the methodology, findings, and recommendations in a clear and professional format, making it suitable for academic or practical presentation. The project uses Python libraries such as pandas, seaborn, matplotlib, and scipy, and is designed to be both educational and applicable to real-world food service management challenges.
